@@ -1,3 +1,7 @@
+' Convert Thai numerals to Arabic and vice versa
+' Author: Prasert Kanawattanachai
+' prasert@cbs.chula.ac.th
+
 Option Explicit
 
 Sub arabic2thai()
